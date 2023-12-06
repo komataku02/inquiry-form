@@ -1,7 +1,7 @@
-# inquiry-form
+# inquiry-form#
 #お問い合わせフォーム
 
-##環境構築
+##環境構築##
 
 Dockerビルド
 
@@ -17,17 +17,17 @@ Laravel環境構築
  5.php artisan mirate
  6.php artisan db:seed
 
- ##使用技術
+ ##使用技術##
 
   ・PHP 8.2
   ・Laravel 8.83.8
   ・MySQL 15.1
 
-##E-R図
+##E-R図##
 
 　(./index.drawio.png)
 
-URL
+##URL##
 
  ・開発環境 : http://localhost/
  ・phpMyAdmin : http://localhost:8080/
