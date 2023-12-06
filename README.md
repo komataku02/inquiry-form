@@ -24,3 +24,10 @@ Laravel環境構築
   ・MySQL 15.1
 
 ##E-R図
+
+　(./index.drawio.png)
+
+URL
+
+ ・開発環境 : http://localhost/
+ ・phpMyAdmin : http://localhost:8080/
